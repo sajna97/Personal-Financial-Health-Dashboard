@@ -1,5 +1,5 @@
-![Expense Overview](screenshots/expense_overview.png)
-![Spending Patterns](screenshots/spending_patterns.png)
+![Expense Overview](Screenshots/expense_overview.png)
+![Spending Patterns](Screenshots/spending_patterns.png)
 
 # 💰 Personal Financial Health Dashboard
 
