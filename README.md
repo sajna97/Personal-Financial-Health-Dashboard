@@ -1,3 +1,6 @@
+![Expense Overview](screenshots/expense_overview.png)
+![Spending Patterns](screenshots/spending_patterns.png)
+
 # 💰 Personal Financial Health Dashboard
 
 A personal finance dashboard that automatically tracks expenses, investments, and monthly budget — built with Google Forms, Google Sheets, and Power BI. Expenses are logged from a phone in seconds, stored automatically in Google Sheets, and visualised in Power BI with a single Refresh click.
